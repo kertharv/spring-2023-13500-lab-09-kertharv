@@ -6,7 +6,7 @@
 
 * GitHub username: kertharv
 
-* Notes:
+* Notes: For Task D, I separated it in a file called poem.cpp.
 
 
 
